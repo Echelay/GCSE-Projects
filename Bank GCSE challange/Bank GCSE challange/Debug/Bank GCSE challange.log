@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Bank GCSE challange.cpp
+c:\users\olire\source\repos\bank gcse challange\bank gcse challange\bank gcse challange.cpp(412): warning C4102: 'paycorrectoliwill': unreferenced label
+c:\users\olire\source\repos\bank gcse challange\bank gcse challange\bank gcse challange.cpp(640): warning C4102: 'paycorrectonewill': unreferenced label
+c:\users\olire\source\repos\bank gcse challange\bank gcse challange\bank gcse challange.cpp(869): warning C4102: 'paycorrecttwowill': unreferenced label
+c:\users\olire\source\repos\bank gcse challange\bank gcse challange\bank gcse challange.cpp(1098): warning C4102: 'paycorrectthreewill': unreferenced label
+c:\users\olire\source\repos\bank gcse challange\bank gcse challange\bank gcse challange.cpp(1326): warning C4102: 'paycorrectwillwill': unreferenced label
+c:\users\olire\source\repos\bank gcse challange\bank gcse challange\bank gcse challange.cpp(12): warning C4101: 'accno': unreferenced local variable
+  Bank GCSE challange.vcxproj -> C:\Users\olire\source\repos\Bank GCSE challange\Debug\Bank GCSE challange.exe
