@@ -1,0 +1,6 @@
+﻿  Algorithm Challenge 21.cpp
+c:\users\olire\documents\prep\year 10\computer science\algorithm challenge 21\algorithm challenge 21\algorithm challenge 21.cpp(15): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\olire\documents\prep\year 10\computer science\algorithm challenge 21\algorithm challenge 21\algorithm challenge 21.cpp(18): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\olire\documents\prep\year 10\computer science\algorithm challenge 21\algorithm challenge 21\algorithm challenge 21.cpp(23): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\olire\documents\prep\year 10\computer science\algorithm challenge 21\algorithm challenge 21\algorithm challenge 21.cpp(28): warning C4305: '=': truncation from 'double' to 'float'
+  Algorithm Challenge 21.vcxproj -> C:\Users\olire\Documents\Prep\Year 10\Computer Science\Algorithm Challenge 21\Debug\Algorithm Challenge 21.exe
