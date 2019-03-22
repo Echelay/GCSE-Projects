@@ -1,0 +1,4 @@
+﻿  Challenge 28.cpp
+d:\prep\year 10\computer science\algorithm challegnges\challenge 28\challenge 28\challenge 28.cpp(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\prep\year 10\computer science\algorithm challegnges\challenge 28\challenge 28\challenge 28.cpp(28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Challenge 28.vcxproj -> D:\Prep\Year 10\Computer Science\Algorithm Challegnges\Challenge 28\Debug\Challenge 28.exe
